@@ -1,5 +1,9 @@
-![MasterHead](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif)
+
 <h1 align="center">Hi 👋, I'm Melike Sargın</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" alt="Header GIF" height="200" width="400">
+</p>
 
 
 **About Me**
