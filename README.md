@@ -1,29 +1,18 @@
 <h1 align="center">Hi , I'm Melike Sargın <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif"  />
-  
+![Header GIF](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif)
 </p>
 <br>
 
-	
-**About me**
-<br><br>
 
-- 🎓 I am an Industrial Engineering graduate
+- 🎓 I am an **Industrial Engineering graduate**
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
 - 🧐 I'm interested in **Data Science and AI**
 
 - 📫 How to reach me **meliikesargin@gmail.com**
-	
-<br>
 
-<h3 align="center" >Connect with me </h3>
-
-<p align="center">
-
- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/melike-sargın" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melike-sargın" height="30" width="40" /></a>
 <a href="https://kaggle.com/melikesargiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="melikesargiin" height="30" width="40" /></a>
