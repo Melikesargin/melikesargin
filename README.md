@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Melike Sargın</h1>
 
-[![MasterHead](https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP)
+[![MasterHead](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif)
 
 **About Me**
 
